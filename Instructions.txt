@@ -1,6 +1,6 @@
-Instructions: create a python script that pulls data from the attached five files to generate keyword bids based on the logic below
+Instructions: Create a python script that pulls data from the attached five files to generate keyword bids based on the logic below.
 
-    Overall, the script should accomplish the following:
+Overall, the script should accomplish the following:
 
 o   Extract data from the five files
 
